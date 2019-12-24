@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I'm a fourth-year PhD student at the University of Southern California and a member of <a href="https://s3research.usc.edu/">Professor Kelly T. Sanders' Sustainable Systems Group</a>. My doctoral research focuses on the relationship between energy, climate, and environmental systems. A portion of my previous work was centered on developing frameworks to quantify the vulnerability of electricity generators to climate change and climate variability. My current research project is centered on the telecoupling of environmental externalities associated with electricity consumption.</p>
+<p>I'm a fifth-year environmental engineering PhD candidate at the University of Southern California, advised by <a href="https://s3research.usc.edu/">Professor Kelly T. Sanders</a>. My doctoral research focuses on the relationship between energy, climate, and environmental systems. A portion of my previous work was centered on developing frameworks to quantify the vulnerability of electricity generators to climate change and climate variability. My current research project is centered on the telecoupling of environmental externalities associated with electricity consumption.</p>
 
 <h2>Research Interests</h2>
 <ul class="skill-list">
