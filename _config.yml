@@ -58,8 +58,8 @@ authors:
         name: Meas Meng
         bio: PhD Candidate, USC
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+        picture: assets/images/avt.png
+        twitter: measrainsey
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -78,7 +78,7 @@ about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
@@ -93,7 +93,7 @@ post-advance-links: [blog]
 show-author: true
 
 # do you want some animations?
-animation: true
+animation: false
 
 plugins:
   - jekyll-seo-tag
